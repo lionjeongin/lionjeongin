@@ -1,7 +1,6 @@
 
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=160&section=header&text=Hi!%20I'm%20Ming!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=ffc72e&animation=scaleIn)
 ![logo](https://github.com/user-attachments/assets/452e91bd-e498-4e64-9980-38f02ff3c8c8)
 
 
