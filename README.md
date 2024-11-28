@@ -1,7 +1,7 @@
 
 <div align="center">
 
-![logo](https://github.com/user-attachments/assets/452e91bd-e498-4e64-9980-38f02ff3c8c8)
+![logojeongin](https://github.com/user-attachments/assets/1918b709-634d-4b13-9101-c2b075928517)
 
 
 <div align="center">
@@ -10,6 +10,7 @@
 <br>
 <br>
 :sparkles: My Project :sparkles:
+<br>
   
 [금쪽 상담소](https://github.com/CounselingProject) <br>
 [점메추](https://github.com/Jeommechu) <br>
