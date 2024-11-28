@@ -12,12 +12,14 @@
 :sparkles: My Project :sparkles:
 <br>
   
-[금쪽 상담소](https://github.com/CounselingProject) <br>&nbsp
-[점메추](https://github.com/Jeommechu) <br>&nbsp
+[금쪽 상담소](https://github.com/CounselingProject) <br>
+
+[점메추](https://github.com/Jeommechu) <br>
+
 [포켓몬 도감](https://github.com/PokemonWebProject) <br>
 
 <br>
-<br>
+
 
 :sparkles: My Skills :sparkles:
 </h3>
