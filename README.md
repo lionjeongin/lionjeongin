@@ -1,23 +1,8 @@
-## Hi there 👋
-
-<!--
-**lionjeongin/lionjeongin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=gradient&height=160&section=header&text=Hi!%20I'm%20Ming!&fontAlign=50&fontAlignY=70&fontSize=90&fontColor=ffc72e&animation=scaleIn)
+![logo](https://github.com/user-attachments/assets/452e91bd-e498-4e64-9980-38f02ff3c8c8)
 
 
 <div align="center">
@@ -27,7 +12,9 @@ Here are some ideas to get you started:
 <br>
 :sparkles: My Project :sparkles:
   
-[RAD BANK](https://github.com/6uiwj/bookingsystem) <br>
+[금쪽 상담소](https://github.com/CounselingProject) <br>
+[점메추](https://github.com/Jeommechu) <br>
+[포켓몬 도감](https://github.com/PokemonWebProject) <br>
 
 <br>
 <br>
@@ -48,8 +35,9 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=6uiwj)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3> :v: Follow Me :v: </h3>
-  <a href="https://6uiwj.notion.site/MinG-b35afb92959e49c0867d5623fcd860cf?pvs=4)"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://6uiwj.notion.site/MinG-b35afb92959e49c0867d5623fcd860cf?pvs=4)"/></a>&nbsp
-  <a href="https://blog.naver.com/devming"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/devming"/></a>&nbsp
+  <a href="https://curious-bus-8ca.notion.site/14c5a0f8dbb880c5a7f8c8b58b669a93"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://6uiwj.notion.site/MinG-b35afb92959e49c0867d5623fcd860cf?pvs=4)"/></a>&nbsp
+  <!--
+  <a href="https://blog.naver.com/devming"><img src="https://img.shields.io/badge/NaverBlog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/devming"/></a>&nbsp --!>
 
 
 
